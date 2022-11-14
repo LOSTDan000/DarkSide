@@ -1,5 +1,0 @@
-a = int(input())
-b = int(input())
-l = int(input())  
-length = (a * 7) + (l * 2) + (6 * b)
-print(length)
